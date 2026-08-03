@@ -72,4 +72,4 @@ life-os-wellbeing-dashboard/
 - If the Gemini API is unreachable (missing key, quota, no internet), the AI Coach and Avatar features show an on-screen error instead of crashing.
 - If there's no data for the selected day, the dashboard shows an error and stops instead of throwing an exception.
 
--If gemini-2.5-flash is not working To fix this immediately, update the model string in your script from gemini-2.5-flash to gemini-2.0-flash (or gemini-1.5-flash).
+- If gemini-2.5-flash is not working To fix this immediately, update the model string in your script from gemini-2.5-flash to gemini-2.0-flash (or gemini-1.5-flash).
